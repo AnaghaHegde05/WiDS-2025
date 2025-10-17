@@ -28,11 +28,6 @@ The project aimed to develop predictive models for:
 
 ## Data Preprocessing
 
-* **fMRI Data:**
-
-  * Applied Principal Component Analysis (PCA) to reduce dimensionality, retaining 99% of the variance.
-  * This reduced the feature set from 19,900 to 1,188 components.
-
 * **Socio-Demographic & Questionnaire Data:**
 
   * Handled missing values through imputation.
@@ -63,4 +58,4 @@ The project aimed to develop predictive models for:
 
 This project provided valuable experience in handling complex, multi-modal data and developing predictive models. It highlighted the importance of data preprocessing, model interpretability, and addressing biases in machine learning applications.
 
-For a comprehensive view of the project, please visit the [Google Sites page](https://sites.google.com/view/eel12anaghahegde/home).
+Visit the [Google Sites](https://sites.google.com/view/anagha-hegde/home).
