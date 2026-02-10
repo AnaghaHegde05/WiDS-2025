@@ -57,5 +57,3 @@ The project aimed to develop predictive models for:
 ## Conclusion
 
 This project provided valuable experience in handling complex, multi-modal data and developing predictive models. It highlighted the importance of data preprocessing, model interpretability, and addressing biases in machine learning applications.
-
-Visit the [Google Sites](https://sites.google.com/view/anagha-hegde/home).
